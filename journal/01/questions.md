@@ -1,18 +1,18 @@
 # Foundations of Web Development
 01. In your own words, why do we use Git?
-    > | ANSWER HERE |
+    > | Cloud back-up, website hosting, collaborative projects |
 
 02. In the terminal, what is the command `mkdir` used for?
-    > | ANSWER HERE |
+    > | Creating a new directory |
 
 03. What is a ***pseudo-class*** and what are some of the most common ones you think you will use?
-    > | ANSWER HERE |
+    > | Style is applied when additional factors are present - :Root /:hover / :checked |
 
 04. What is ***specificity*** and how might you use it to your benefit?
-    > | ANSWER HERE |
+    > | Specificity help target specific elements with declarations - utilized to apply weights to specific variations in order to call them under specific conditions |
 
 05. What problems do you think you could run into if you over-utilized the `!important` feature?
-    > | ANSWER HERE |
+    > | I would quickly lose track of what is ACTUALLY important, no probably about it! |
 
 06. What are the three components that makeup a `CSS` rule? <br> Example:
 
