@@ -37,3 +37,22 @@ FOOTER
 FOOTER
 
 Span only takes up the width of its content, Div takes up the whole BLOCK
+
+4/26/23
+.row enter creates the container
+.col-6 *2 = creates columns within row
+**section vs. div for Rows!
+col-12 to 
+col-md-4 (mobile to desktop)
+class="img-fluid" img restricted by size of container
+cntrl+/ = notes
+class fw = font weight
+text-center
+<i> = icon class="mdi mdi-[whatever icon]
+order-1 order-md-0
+CDN = content delivery network
+https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css
+https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/7.2.96/css/materialdesignicons.min.css
+
+Material Design Icons Intellisense by Lukas Troyer
+Bootstrap 5 Quick Snippets by Anbuselvan Rocky
