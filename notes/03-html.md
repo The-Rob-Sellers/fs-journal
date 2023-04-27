@@ -56,3 +56,26 @@ https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/7.2.96/css/materia
 
 Material Design Icons Intellisense by Lukas Troyer
 Bootstrap 5 Quick Snippets by Anbuselvan Rocky
+
+4/27/23
+****Create a rough outline in HTML
+!!!! class on element col-md-5 col-10 === column creation within rows 12 masx
+! enter
+HEAD
+link bootstrap, mdi, etc., CSS 
+BODY
+section navbar
+HEADER = container-fluid
+section 
+BODY
+all the stuff !!!Div class "row"
+SEction
+MAIN
+section
+STUB = subsections
+FOOTER
+footer stuff
+Once outline is complete, start working top to bottom
+
+text-center will center an image inside of a column...justify-content won't always work.
+

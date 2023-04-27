@@ -55,3 +55,33 @@ MAIN{
     max-width: 46%;
     margin:
 }
+
+4/27/23
+
+start by adding a bottom section of 
+<!-- /* Utilities */ -->
+background colors
+scroll up and begin defining style classes as needed in the moment from HTML
+.hero-img{
+    background-image: url
+    min-height:vh60
+    background-size:
+}
+
+.glassCard{
+    copy from css.glass
+}
+
+body{
+    font-family: jost
+}
+
+<!-- targeting the image  -->
+.oranges{
+
+}
+
+media rule =
+@media (max-width: 768px) { <-------768 = md (medium screen)
+
+}
