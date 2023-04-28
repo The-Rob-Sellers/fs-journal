@@ -1,7 +1,7 @@
 FIGMA
 4/27/23
 Figma design tips!
-Create a desktop frame (extend down for scrolling)
+Create a desktop fr ame (extend down for scrolling)
 pick at least three colors to work with in boxes off to the size
 low-fidelity mock layout = Nav bar, banner image, options menu/nav row (regions)
 group elements = shift click, then ctrl-G - they move as one
