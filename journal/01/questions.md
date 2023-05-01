@@ -25,16 +25,16 @@
     > | Selector, property (characteristic), value  |
 
 07. How do you think good design influences people when visiting a website, and what sorts of things could you convey through design alone?
-    > | In addition to aesthetics,  |
+    > | In addition to hansom aesthetics, a clean design can influence buying decisions and future purchases in e-commerce.  Projecting professionalism and confidence will help customers see the business as legitimate and inspire trust in the relationship between an individual and an organization |
 
 08. What is the purpose of ***wireframing***?
-    > | ANSWER HERE |
+    > | To visualize the layout of the website before writing the code to make it a reality |
 
 09. Do you think wireframes are worth the time, energy, and effort that they require? Why or Why not?
-    > | ANSWER HERE |
+    > | If I am starting from scratch, they are definitely worth it to organize my ideas into a visual representation to create.  When using a screenshot or template, I don't yet see the value of spending a ton of time on wireframes, but I could be wrong. |
 
 10. Define the display `:flex property:`
-    > | ANSWER HERE |
+    > | I'm not sure what you're looking for here, but I'd be glad to talk through it with someone if you have a minute... |
 
 11. What `CSS` properties affect the size of a box model?
-    > | ANSWER HERE |
+    > | Margin, Border, Padding |
