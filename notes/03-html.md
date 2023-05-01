@@ -79,3 +79,10 @@ Once outline is complete, start working top to bottom
 
 text-center will center an image inside of a column...justify-content won't always work.
 
+5/1/23
+.row / .col / .card / .card-body /.img / .p? .potion? to quick build!
+.i for icon div (within p element)
+onclick similar to class call in HTML
+CAREFULLY name console logs for readability
+Span keeps elements in the same line by default
+don't use window.reload! 😊

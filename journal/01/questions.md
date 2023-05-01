@@ -34,7 +34,7 @@
     > | If I am starting from scratch, they are definitely worth it to organize my ideas into a visual representation to create.  When using a screenshot or template, I don't yet see the value of spending a ton of time on wireframes, but I could be wrong. |
 
 10. Define the display `:flex property:`
-    > | I'm not sure what you're looking for here, but I'd be glad to talk through it with someone if you have a minute... |
+    > | CSS property that causes the container to adjust size and passes the properties to the child elements contained within |
 
 11. What `CSS` properties affect the size of a box model?
     > | Margin, Border, Padding |
