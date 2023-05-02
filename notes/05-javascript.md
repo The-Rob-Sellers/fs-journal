@@ -51,3 +51,9 @@ return alert - pops for the user, throw error
 Basic STUB application built
 ** Shift-alt arrows to copy and move code!
 function drawUniqueName
+
+5/2/23
+script app.js at the VERY end of the body (can throw defer tag on it to put anywhere, but best practice is at end)
+**** shft+alt+down = duplicate line below****
+/** sets up parameters and displays the notes when selected
+CONST vs LET
