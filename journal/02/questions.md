@@ -1,15 +1,15 @@
 # Intro to JavaScript
 01. Which keywords are used to declare a variable in JavaScript?
 
-    > | ANSWER HERE |
+    > | let, var, const |
 
 02. What is the definition of a function?
 
-    > | ANSWER HERE |
+    > | the logic contained between the curly brackets {} |
 
 03. What are the `SOLID` principles?
 
-    > | ANSWER HERE |
+    > | single responsibility, open-close, Liskov substitution, interface segregation, dependency inversion |
 
 04. Given this array: How could you remove the `pineapple`?
 
@@ -17,7 +17,7 @@
     let fruit = ['apple', 'banana', 'pineapple', 'orange', 'strawberry']
     ```
 
-    > | ANSWER HERE |
+    > | filter? |
 
 05. Given these two objects: How could you add each to the others friends arrays?
 
@@ -34,24 +34,28 @@
     }
     ```
 
-    > | ANSWER HERE |
+    > | type "them" in top green brackets and "you" in the bottom ones |
 
 06. Give an example of a JavaScript `Conditional`:
 
-    > | ANSWER HERE |
+    > | if (age < 18) text = "too young to vote legally" |
 
 07. What is the main difference between `parameters` and `arguments`?
 
-    > | ANSWER HERE |
+    > | parameters are similar to variable names, whereas arguments specify what the values are |
 
 08. Instead of writing everything to the console, what is a better way to debug your code?
 
-    > | ANSWER HERE |
+    > | debugger that loads page in stages to help isolate problems |
 
 09. What is the difference between a `primitive` value and a `reference` value?
 
-    > | ANSWER HERE |
+    > | primitive values are immutable, reference values can by mutated |
 
 10. Demonstrate a loop that prints the numbers between -100 and 100?
 
-    > | ANSWER HERE |
+    > | let CurrentNumber = -100
+        if (CurrentNumber <= 101) {
+        return CurrentNumber
+        CurrentNumber++
+        } |
