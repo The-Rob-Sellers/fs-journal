@@ -1,11 +1,11 @@
 # Application Architecture, MVC Design Pattern
 01. What are the Pillars of Object Oriented Programming (`OOP`)?
   
-  > | ANSWER HERE |
+  > | Abstraction, Encapsulation, Inheritance, Polymorphism |
 
 02. How does `export` differ from `export default`?
   
-  > | ANSWER HERE |
+  > |  |
 
 03. What is Encapsulation?
   
