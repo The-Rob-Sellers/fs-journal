@@ -9,7 +9,7 @@ MVC process steps:
 Model = bluebrints, start there!
 1. create .js files in Models (Gachamon name for Gachamon class)
 2. export class (eg Gachamon) at the top of each file before defining it. example:
-export class House{
+export class House{...
 
 3. constructor is what is invoking the class, needs () example:
 { walls: 'plywood', floors: 'tile', windows: 'glass'}
@@ -52,3 +52,5 @@ gachamon[0].
 @type  {import('./Models/Gachamon').Gachamon[]} 
 gachamon.forEach(g => template += g.ListTemplate)\
 11. create observers to draw updates on any changes madde to the Appstate
+
+5/10/23

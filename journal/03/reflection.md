@@ -6,3 +6,5 @@ This reflection is open-format, so it can be whatever you like. Take this opport
 - What did you learn that was a shock or surprise?
 - What are you struggling with?
 - What would you count as a victory?
+
+I have been struggling with the amount of information and having the energy to be able to put in the time with additional work outside of the 
